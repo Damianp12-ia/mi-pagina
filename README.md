@@ -1,5 +1,4 @@
 # mi-pagina
-es una parte de una tarea 
   </header>
     <nav>
         <a href="#home">Inicio</a>
